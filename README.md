@@ -4,7 +4,6 @@
 <div> Prodi : Sistem Informasi A </div>
 
 *Praktikum 1* : Pengenalan Variabel 'praktikum-a1.py'
-
 Praktikum 2 : Pengenalan Operator 'praktikum-a2.py'
 
 
