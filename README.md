@@ -7,5 +7,5 @@
 
 *Praktikum 2* : Pengenalan Operator 'praktikum-a2.py'
 
-Praktikum 3 : Rangkaian Karakter dan Tugas Panjang & penugasan indeks 'praktikum-a3.py'
+*Praktikum 3* : Rangkaian Karakter dan Tugas Panjang & penugasan indeks 'praktikum-a3.py'
 
