@@ -9,5 +9,7 @@
 
 *Praktikum 3* : Rangkaian Karakter dan Tugas Panjang & penugasan indeks 'praktikum-a3.py'
 
-*Praktikum 4* : Rangkaian Tipe Data String, Integer, List, Tuple 'praktikum-a4.py
+*Praktikum 4* : Rangkaian Tipe Data String, Integer, List, Tuple 'praktikum-a4.py'
+
+*Praktikum 5* : Tuga membuat program suatu angka genap atau ganjil dan konversi waktu dari jam ke menit 'praktikum-a5.py'
 
