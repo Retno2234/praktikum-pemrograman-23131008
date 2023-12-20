@@ -13,5 +13,7 @@
 
 *Praktikum 5* : Tugas membuat program suatu angka genap atau ganjil dan konversi waktu dari jam ke menit 'praktikum-a5.py'
 
-*Praktikum 6* : Tugasmembuat program percabangan if, elif, else dan for loop (perulangan) dengan if and else statement 'praktikum-a6.py'
+*Praktikum 6* : Tugas program biota 'praktikum-a6.py'
+
+*Praktikum 7* : Tugasmembuat program percabangan if, elif, else dan for loop (perulangan) dengan if and else statement 'praktikum-a7.py'
 
