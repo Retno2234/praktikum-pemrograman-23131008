@@ -11,5 +11,7 @@
 
 *Praktikum 4* : Rangkaian Tipe Data String, Integer, List, Tuple 'praktikum-a4.py'
 
-*Praktikum 5* : Tuga membuat program suatu angka genap atau ganjil dan konversi waktu dari jam ke menit 'praktikum-a5.py'
+*Praktikum 5* : Tugas membuat program suatu angka genap atau ganjil dan konversi waktu dari jam ke menit 'praktikum-a5.py'
+
+*Praktikum 6* : Tugasmembuat program percabangan if, elif, else dan for loop (perulangan) dengan if and else statement 'praktikum-a6.py'
 
