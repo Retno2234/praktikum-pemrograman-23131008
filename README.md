@@ -15,5 +15,5 @@
 
 *Praktikum 6* : Tugas program biota 'praktikum-a6.py'
 
-*Praktikum 7* : Tugasmembuat program percabangan if, elif, else dan for loop (perulangan) dengan if and else statement 'praktikum-a7.py'
+*Praktikum 7* : Tugas membuat program percabangan if, elif, else dan for loop (perulangan) dengan if and else statement 'praktikum-a7.py'
 
