@@ -13,7 +13,7 @@
 
 *Praktikum 5* : Perbaikan UTS 'praktikum-a5.py'
 
-*Praktikum 6* : Tugas membuat program suatu angka genap atau ganjil dan konversi waktu dari jam ke menit 'praktikum-a5.py'
+*Praktikum 6* : Tugas membuat program suatu angka genap atau ganjil serta penggunaan percabangan untuk mengecek bilangan kelipatan 3 atau bukan dan konversi waktu dari jam ke menit 'praktikum-a5.py'
 
 *Praktikum 7* : Tugas program biota 'praktikum-a6.py'
 
